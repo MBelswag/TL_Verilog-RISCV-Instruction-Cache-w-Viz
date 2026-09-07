@@ -224,6 +224,7 @@ These counters show the cache warming up. The first loop through the program is 
 ## Visualization
 
 The project includes a `\viz_js` block that displays cache activity.
+<img width="630" height="480" alt="image" src="https://github.com/user-attachments/assets/c68bae1b-8738-448b-a3ac-07c46c590efd" />
 
 The visualization shows the four cache sets, both ways in each set, which entries are valid, which set and way are selected, whether the access is a hit or miss, whether a miss fills way 0 or way 1, and the running hit/miss counts.
 
